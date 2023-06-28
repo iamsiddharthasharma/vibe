@@ -10,3 +10,9 @@ A Social Media Application based on React.js and Java Spring Boot
 ### Project Demonstration Video
 
 * [Youtube Link](https://youtu.be/ebxJV-oX-nw)
+
+## Highlights of our Project
+
+Here is a glimpse of our Socila Media Web Application <b>VIbe</b> : 
+
+<img src="./snapshot.png" alt="Logo" >
