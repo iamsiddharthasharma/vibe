@@ -1,0 +1,21 @@
+
+    html{
+        background-color: rgba(93, 84, 112, 0.514);
+    }
+    h2{
+        font-size: 400%;
+        text-align: center;
+    }
+    form{
+        font-size: larger;
+    }
+    p{
+        font-size: 200%;
+    }
+    .pay{
+        background-color: cadetblue;
+        height: 380px;
+        width: 550px;
+        border-radius:10%;
+        margin-left:500px ;
+    }
