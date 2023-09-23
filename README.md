@@ -1,7 +1,7 @@
 # Vibe
 A Social Media Application based on React.js and Java Spring Boot
 
-## SmartBridge Externship Grp Project by Team 73 <br>
+## SmartBridge Externship Group Project by Team 73 <br>
 * Siddhartha Sharma (20BAI10044) <br>
 * Nishi Jain (20BAI10196) <br>
 * Sonalika Bharadwaj (20BCY10061) <br>
@@ -14,5 +14,6 @@ A Social Media Application based on React.js and Java Spring Boot
 ## Highlights of our Project
 
 Here is a glimpse of our Social Media Web Application <b>Vibe</b> : 
+
 
 <img src="./snapshot.png" alt="Logo" >
